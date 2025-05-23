@@ -1,4 +1,5 @@
-## Opa!, Bem vindo 😎
+## 👨‍💻 Olá, visitante curioso(a)!
+Este é meu laboratório de códigos – sinta-se à vontade para explorar, aprender e colaborar!
 
 <div style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
