@@ -15,7 +15,7 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&theme=tokyonight&include_all_commits=true&v=123)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&theme=tokyonight&include_all_commits=true&v=125)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&show_icons=true&theme=tokyonight&layout=compact&v=123)
 <br>
 
