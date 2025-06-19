@@ -13,7 +13,7 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
   <br><br>
 
   <div style="display: inline-block; width: 80%;">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 100%; height: auto;">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 60%; height: auto;">
   </div>
 
   <br><br>
