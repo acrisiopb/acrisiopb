@@ -3,17 +3,16 @@
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 
 <div style="display: inline_block">
-  <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 60%; height: auto;">
-</div>
-
-
-
-<div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
     <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Badge MySQL">
     <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Badge Spring">
     <img align="center" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Badge Apache Tomcat">
 </div>
+
+<div style="display: inline_block">
+  <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 60%; height: auto;">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
