@@ -2,7 +2,7 @@
 ## 👨‍💻 Olá, visitante curioso(a)!
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 
-<div style="max-width: 800px; width: 100%; margin: 0 auto;">
+<div style="display: inline_block">
   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 60%; height: auto;">
 </div>
 
