@@ -3,7 +3,7 @@
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 
 <div style="display: inline_block">
-<img align="center"  width="300" height="100%" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
+<img align="center"  width="300" height="100" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
 </div>
 
 <div style="display: inline_block">
