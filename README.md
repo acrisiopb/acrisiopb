@@ -10,7 +10,7 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 </div>
 <br>
 
-<div style="display: inline_block"; background:"red";>
+<div style="display: inline_block">
   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 80%; height: auto;">
 </div>
 
