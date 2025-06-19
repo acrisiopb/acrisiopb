@@ -1,7 +1,7 @@
 
 ## 👨‍💻 Olá, visitante curioso(a)!
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
-<img align="center"  width="300" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
+<img align="center"  width="500" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
 
 <div style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
