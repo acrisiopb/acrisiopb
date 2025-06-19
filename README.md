@@ -19,13 +19,6 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 
   <br><br>
 
-  <p align="center">
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </p>
-
-  <br><br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&theme=tokyonight&include_all_commits=true&v=125)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&show_icons=true&theme=tokyonight&layout=compact&v=123)
