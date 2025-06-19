@@ -14,10 +14,14 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
     <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git">
  </p>
+ 
+ <br>
+ 
+ <p align="center">
+   ![GIFDEVELOPER](https://github.com/acrisiopb/acrisiopb/blob/main/code.gif)
+ </p>
 
-![GIFDEVELOPER](https://github.com/acrisiopb/acrisiopb/blob/main/code.gif)
-
-  <br><br>
+ <br>
 ## Estatísticas | GitHub  
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" /> 
