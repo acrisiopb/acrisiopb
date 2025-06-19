@@ -1,9 +1,12 @@
 
 ## 👨‍💻 Olá, visitante curioso(a)!
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
-<img align="center"  width="300" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+<img align="center"  width="300" height="100%" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
+</div>
+
+<div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
     <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Badge MySQL">
     <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Badge Spring">
