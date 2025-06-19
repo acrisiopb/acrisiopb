@@ -18,11 +18,7 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 ![GIFDEVELOPER](https://github.com/acrisiopb/acrisiopb/blob/main/code.gif)
 
   <br><br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&theme=tokyonight&include_all_commits=true&v=125)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&show_icons=true&theme=tokyonight&layout=compact&v=123)
-
-
+## Estatísticas | GitHub  
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" />
