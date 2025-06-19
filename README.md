@@ -24,9 +24,10 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" />
 </div>
 
-## Visitantes
+## Visitantes | GitHub  
 
 <p align="center">
- ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Facrisiopb&s=39&c=00ff00&bg=00000000&no=6&ff=alien&tb=&ta=)
+ <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Facrisiopb&s=39&c=00ff00&bg=00000000&no=6&ff=alien&tb=&ta=" alt="visits">
 </p>
+
 <br>
