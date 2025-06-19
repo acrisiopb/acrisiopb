@@ -17,7 +17,7 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  
  <br>
  
- <p align="center" style=" width="50%">
+ <p align="center" style=" width="10%">
    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="capa GitHub Acrísio"/>
  </p>
 
