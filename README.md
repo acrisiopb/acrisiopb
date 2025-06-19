@@ -2,9 +2,10 @@
 ## 👨‍💻 Olá, visitante curioso(a)!
 Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
 
-<div style="display: inline_block">
-<img align="center"  width="300" height="100" src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE">
+<div style="display: block; text-align: center;">
+  <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 100%; height: auto;">
 </div>
+
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
