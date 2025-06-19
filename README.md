@@ -9,6 +9,8 @@ Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
     <img align="center" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Badge Apache Tomcat">
 </div>
 
+<br>
+
 <div style="display: inline_block">
   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="CODE" style="width: 60%; height: auto;">
 </div>
