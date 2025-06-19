@@ -16,11 +16,6 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  </p>
  
  <br>
-
- &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/4oPePKIcK3en2AurVcY6qw)
-</div>
-
  
  <p align="center">
    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="capa GitHub Acrísio" width="90%" height="40%">
