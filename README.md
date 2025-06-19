@@ -1,8 +1,8 @@
 ## 👨‍💻 Olá, visitante curioso(a)!
-Este é meu laboratório de códigos – sinta-se à vontade para explorar. 😎
+Este é meu laboratório de códigos – sinta-se à vontade. 😎
 
 
-## Tecnologia | Habilidades 
+## Tecnologias | Habilidades 
  <p align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Badge MySQL">
