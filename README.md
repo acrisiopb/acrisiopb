@@ -1,4 +1,4 @@
-## 👨‍💻 Olá, visitante curioso(a)!
+## 👨‍💻 Olá, visitante!
 Este é meu laboratório de códigos – sinta-se à vontade. 😎
 
 
