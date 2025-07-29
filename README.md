@@ -2,7 +2,7 @@
 Este é meu laboratório de códigos – sinta-se à vontade. 😎
 <hr/>
 <p>
-  Olá! 👋<br>
+<br>
   Abaixo você encontrará uma breve introdução com as tecnologias com as quais tenho mais familiaridade.<br>
   Sou formado em Ciência da Computação e possuo duas pós-graduações: uma em Segurança da Informação e outra em Perícia Forense Computacional.
 </p>
