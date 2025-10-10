@@ -38,9 +38,9 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
 
 ## Visitantes | GitHub  
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Facrisiopb&s=39&c=00ff00&bg=00000000&no=6&ff=alien&tb=&ta=" alt="visits">
-</p>
+</p> -->
 
 <!--<p align="center"> SNAKE
   <picture>
