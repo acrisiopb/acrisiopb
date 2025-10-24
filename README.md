@@ -42,19 +42,19 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Facrisiopb&s=39&c=00ff00&bg=00000000&no=6&ff=alien&tb=&ta=" alt="visits">
 </p> -->
 
-<!--<p align="center"> SNAKE
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
   </picture>
-</p>-->
+</p>
 
-<p align="center">
+<!-- <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/pacman-contribution-graph.svg">
 </picture>
-</p>
+</p> -->
 
