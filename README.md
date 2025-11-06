@@ -7,6 +7,12 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
   Sou formado em Ciências da Computação e possuo duas pós-graduações: uma em Segurança da Informação e outra em Perícia Forense Computacional.
 </p>
 
+## 🏆 Certificações e Distintivos  
+*(Atualizado automaticamente)*  
+<div align="center">  
+  
+</div>
+
 ## Tecnologias | Habilidades 
  <p align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Badge Java">
