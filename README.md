@@ -39,10 +39,17 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  
 
   <br>
-  <p align="center">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/acrisio.gif" alt="capa GitHub Acrísio">
-   <!-- <img src="https://github.com/acrisiopb/acrisiopb/blob/main/capa.png" alt="capa GitHub Acrísio"> -->
- </p>
+  
+ <p align="center">
+  <picture>
+    <!-- Imagem para o modo escuro -->
+    <source srcset="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/acrisioBlack.gif" media="(prefers-color-scheme: dark)">
+    <!-- Imagem para o modo claro -->
+    <source srcset="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/acrisiowhite.gif" media="(prefers-color-scheme: light)">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/acrisioBlack.gif" alt="capa GitHub Acrísio">
+  </picture>
+</p>
+
 
  <br>
  
