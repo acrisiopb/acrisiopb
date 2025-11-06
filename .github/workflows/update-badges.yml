@@ -3,7 +3,7 @@ name: Update Credly Badges
 on:
   schedule:
     - cron: '0 9 * * 1'  # roda toda segunda-feira às 9h
-  workflow_dispatch:
+  workflow_dispatch:      # permite rodar manualmente
 
 jobs:
   update-badges:
