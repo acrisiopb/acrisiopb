@@ -37,10 +37,6 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
  </p>
  
- <br>
-  <p align="center">
-   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="capa GitHub Acrísio">
- </p>
 
  <br>
  
