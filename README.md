@@ -38,6 +38,11 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  </p>
  
 
+  <br>
+  <p align="center">
+   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/capa.png" alt="capa GitHub Acrísio">
+ </p>
+
  <br>
  
 ## Estatísticas | GitHub  
