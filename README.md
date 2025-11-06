@@ -9,13 +9,13 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
 
 ## 🏆 Certificações e Distintivos  
 <div align="">  
- <a hrer="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
+ <a href="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="" width="100" height="200">
   </a>
-    <a hrer="https://www.credly.com/earner/earned/share/c7637845-7ede-42b4-b85b-49d47de5985b">
+    <a href="https://www.credly.com/earner/earned/share/c7637845-7ede-42b4-b85b-49d47de5985b">
     <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" alt="" width="100" height="200">
   </a>
-   <a hrer="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
+   <a href="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
     <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="" width="100" height="200">
   </a>
  
@@ -39,7 +39,7 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  
  <br>
   <p align="center">
-   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="capa GitHub Acrísio">
+   <img src="https://github.com/acrisiopb/acrisiopb/blob/main/code.gif" alt="capa GitHub Acrísio" width="200" height="400">
  </p>
 
  <br>
