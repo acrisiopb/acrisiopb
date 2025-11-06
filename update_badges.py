@@ -5,7 +5,7 @@ USERNAME = "acrisio-cruz"
 README_FILE = "README.md"
 SECTION_TITLE = "## 🏆 Certificações e Distintivos"
 
-url = f"https://www.credly.com/users/{USERNAME}/public_badges.json"
+url = f"https://www.credly.com/users/acrisio-cruz/badges"
 response = requests.get(url)
 if response.status_code != 200:
     print("❌ Erro ao acessar a API da Credly.")
