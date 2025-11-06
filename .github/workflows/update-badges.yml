@@ -1,0 +1,24 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Executa toda segunda às 9h
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update badges from Credly
+        uses: varunsridharan/action-credly-badges@main
+        with:
+          CREDLY_USERNAME: 'acrisio-cruz'
+          README_FILE: 'README.md'
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🔄 Atualização automática dos distintivos da Credly'
