@@ -18,6 +18,9 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
    <a href="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
     <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="" width="100" height="200">
   </a>
+   <a href="https://www.credly.com/org/hazelcast-inc/badge/stream-processing-java">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed.png" alt="" width="100" height="200">
+  </a>
  
 </div>
 
