@@ -1,5 +1,5 @@
 ## 👨‍💻 Olá, visitante!
-Este é meu laboratório de códigos – sinta-se à vontade. 😎
+Este é meu laboratório de códigos, sinta-se à vontade. 😎
 <hr/>
 <p>
 <br>
