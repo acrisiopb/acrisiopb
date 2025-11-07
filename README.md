@@ -10,25 +10,25 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
 ## 🏆 Certificações e Distintivos  
 <div align="">  
  <a href="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" height="200" alt="Introdução a Segurança da informação Certificação">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" height="80" alt="Introdução a Segurança da informação Certificação">
   </a>
     <a href="https://www.credly.com/earner/earned/share/c7637845-7ede-42b4-b85b-49d47de5985b">
-    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="100" height="200" alt="MongoDB Certificação">
+    <img src="https://images.credly.com/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" width="80" height="80" alt="MongoDB Certificação">
   </a>
    <a href="https://www.credly.com/earner/earned/share/ac519d30-bde9-4532-a526-63e1f29e8497">
-    <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"  width="100" height="200" alt="Segurança de EndPoint Certificação">
+    <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"  width="80" height="80" alt="Segurança de EndPoint Certificação">
   </a>
    <a href="https://www.credly.com/org/hazelcast-inc/badge/stream-processing-java">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed.png" width="100" height="200" alt="Processamento de fluxo java Certificação">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed.png" width="80" height="80" alt="Processamento de fluxo java Certificação">
   </a>
-   <a href="https://www.credly.com/earner/earned/badge/f3bb5855-bb60-4230-bd99-7c3ccff9217f">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(1).png"  width="100" height="200" alt="Platform Certificação">
+   <a href="https://www.credly.com/badges/f3bb5855-bb60-4230-bd99-7c3ccff9217f">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(1).png" width="80" height="80" alt="Platform Certificação">
   </a>
    <a href="https://www.credly.com/badges/f317d28a-8b53-4a1e-bcf8-a442c88d31cb/public_url">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(2).png" alt="Developer Certificação" width="100" height="200">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(2).png" alt="Developer Certificação" width="80" height="80">
   </a>
   <a href="https://www.credly.com/badges/1e5ae8f0-5603-4579-8f27-39c5d5f4353f">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/image.png" alt="Operação Certificação" width="100" height="200">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/image.png" alt="Operação Certificação" width="80" height="80">
   </a>
  
 </div>
