@@ -24,6 +24,9 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
    <a href="https://www.credly.com/earner/earned/badge/f3bb5855-bb60-4230-bd99-7c3ccff9217f">
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(1).png" alt="" width="100" height="200">
   </a>
+   <a href="https://www.credly.com/earner/earned/share/f317d28a-8b53-4a1e-bcf8-a442c88d31cb">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(2).png" alt="" width="100" height="200">
+  </a>
   <a href="https://www.credly.com/earner/earned/share/1e5ae8f0-5603-4579-8f27-39c5d5f4353f">
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/image.png" alt="" width="100" height="200">
   </a>
