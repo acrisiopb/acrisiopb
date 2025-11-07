@@ -22,7 +22,7 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed.png" alt="" width="100" height="200">
   </a>
    <a href="https://www.credly.com/earner/earned/badge/f3bb5855-bb60-4230-bd99-7c3ccff9217f">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed2.png" alt="" width="100" height="200">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(1).png" alt="" width="100" height="200">
   </a>
  
 </div>
