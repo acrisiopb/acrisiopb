@@ -55,8 +55,27 @@ Este é meu laboratório de códigos – sinta-se à vontade. 😎
  
 ## Estatísticas | GitHub  
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" />
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=333&bg_color=ffffff" 
+      media="(prefers-color-scheme: light)" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=333&bg_color=ffffff" 
+      media="(prefers-color-scheme: light)" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact" />
+  </picture>
+
 </div>
 
 <!-- ## Visitantes | GitHub  
