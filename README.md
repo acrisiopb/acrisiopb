@@ -68,8 +68,37 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
 ## Estatísticas | GitHub  
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=chartreuse_dark)
+ <!-- ===== STATS ===== -->
+  <picture>
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=chartreuse_dark" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=github" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=github" 
+      alt="GitHub Stats"
+    />
+  </picture>
+
+  <!-- ===== PRODUCTIVE TIME ===== -->
+  <picture>
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=chartreuse_dark" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=github" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=github" 
+      alt="Productive Time"
+    />
+  </picture>
 
 <!--  <picture>
     <source 
@@ -94,10 +123,24 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
 </div>
 
 <div align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=chartreuse_dark)
-  
+
+  <picture>
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=chartreuse_dark" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=github" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=github" 
+      alt="Resumo do Perfil"
+    />
+  </picture>
+
 </div>
+
 
 <!-- ## Visitantes | GitHub  
 
