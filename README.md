@@ -71,7 +71,7 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
  <!-- ===== STATS ===== -->
   <picture>
     <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=chartreuse_dark" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=2077" 
       media="(prefers-color-scheme: dark)"
     />
     <source 
@@ -87,7 +87,7 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
   <!-- ===== PRODUCTIVE TIME ===== -->
   <picture>
     <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=chartreuse_dark" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=2077" 
       media="(prefers-color-scheme: dark)"
     />
     <source 
@@ -126,7 +126,7 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
 
   <picture>
     <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=chartreuse_dark" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=2077" 
       media="(prefers-color-scheme: dark)"
     />
     <source 
