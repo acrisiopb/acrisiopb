@@ -49,9 +49,9 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
  </p>
  
-
   <br>
-  
+
+<!--Gif Acrisio Cruz -->
  <p align="center">
   <picture>
     <!-- Imagem para o modo escuro -->
@@ -61,7 +61,6 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/acrisioBlack.gif" alt="capa GitHub Acrísio">
   </picture>
 </p>
-
 
  <br>
  
@@ -100,35 +99,19 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
     />
   </picture>
 
-<!--  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=333&bg_color=ffffff" 
-      media="(prefers-color-scheme: light)" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=5D3FD3&bg_color=0d1117" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=333&bg_color=ffffff" 
-      media="(prefers-color-scheme: light)" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact" />
-  </picture>-->
-
 </div>
+
+<!--Grafico Estatísticas-->
 
 <div align="center">
 
   <picture>
+     <!-- Imagem para o modo escuro -->
     <source 
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=2077" 
       media="(prefers-color-scheme: dark)"
     />
+    <!-- Imagem para o modo claro -->
     <source 
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=github" 
       media="(prefers-color-scheme: light)"
@@ -148,6 +131,8 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Facrisiopb&s=39&c=00ff00&bg=00000000&no=6&ff=alien&tb=&ta=" alt="visits">
 </p> -->
 
+<!--Snake-->
+
 <!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/github-contribution-grid-snake-dark.svg">
@@ -156,6 +141,7 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
   </picture>
 </p> -->
 
+<!--Pac Man-->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acrisiopb/acrisiopb/output/pacman-contribution-graph-dark.svg">
