@@ -68,7 +68,10 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
 ## Estatísticas | GitHub  
 <div align="center">
 
-  <picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=acrisiopb&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrisiopb&theme=chartreuse_dark)
+
+<!--  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=acrisiopb&show_icons=true&count_private=true&hide_border=true&title_color=5D3FD3&icon_color=5D3FD3&text_color=c9d1d9&bg_color=0d1117" 
       media="(prefers-color-scheme: dark)" />
@@ -86,8 +89,14 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact&hide_border=true&title_color=5D3FD3&text_color=333&bg_color=ffffff" 
       media="(prefers-color-scheme: light)" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrisiopb&layout=compact" />
-  </picture>
+  </picture>-->
 
+</div>
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acrisiopb&theme=chartreuse_dark)
+  
 </div>
 
 <!-- ## Visitantes | GitHub  
