@@ -28,7 +28,7 @@ Este é meu laboratório de códigos, sinta-se à vontade. 😎
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/unnamed%20(2).png" alt="Developer Certificação" width="80" height="80">
   </a>
   <a href="https://www.credly.com/badges/1e5ae8f0-5603-4579-8f27-39c5d5f4353f">
-    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/image.png" alt="Operação Certificação" width="80" height="80">
+    <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/Operations.png" alt="Operação Certificação" width="80" height="80">
   </a>
   <a href="https://www.credly.com/badges/43ed8478-5694-4f22-8e7c-c48c32b80841">
     <img src="https://github.com/acrisiopb/acrisiopb/blob/main/IMG/Scrum.png" alt="Professional Scrum Developer I (PSD I)" width="80" height="80">
